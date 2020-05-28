@@ -1,0 +1,1 @@
+# AmbassadeChine-deleted-tweet
