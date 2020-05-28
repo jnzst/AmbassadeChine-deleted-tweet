@@ -6,21 +6,23 @@ The tweet was soon deleted and they denied that they had ever posted it.
 
 https://twitter.com/AmbassadeChine/status/1264848867390078978
 
-Éclaircissement: Quelqu'un a falsifié le compte officiel de Twitter de l'Ambassade de Chine en publiant un dessin intitulé "Qui est le prochain?". L'Ambassade tient à le condamner et s'attache toujours au principe de véracité, d'objectivité et de rationalité des informations.
+> Éclaircissement: Quelqu'un a falsifié le compte officiel de Twitter de l'Ambassade de Chine en publiant un dessin intitulé "Qui est le prochain?". L'Ambassade tient à le condamner et s'attache toujours au principe de véracité, d'objectivité et de rationalité des informations.
 
-DeepL translation: Clarification: Someone has falsified the official Twitter account of the Chinese Embassy by publishing a cartoon entitled "Who's next?". The Embassy wishes to condemn this and is still committed to the principle of truthfulness, objectivity and rationality of information.
+> DeepL translation: Clarification: Someone has falsified the official Twitter account of the Chinese Embassy by publishing a cartoon entitled "Who's next?". The Embassy wishes to condemn this and is still committed to the principle of truthfulness, objectivity and rationality of information.
 
 https://twitter.com/ChinaEmbGermany/status/1265652087494508546
 
-Die chn. Botschaft in Frankreich hat das Tweet nie gepostet und hat schon auf Twitter u. Homepage Klarstellung dazu gemacht. Das Bild mit Account-Logo wurde böswillig gefälscht, um China zu diffamieren. Man sollte Urteilskraft haben, Fake News zu erkennen u. nicht zu verbreiten.
+> Die chn. Botschaft in Frankreich hat das Tweet nie gepostet und hat schon auf Twitter u. Homepage Klarstellung dazu gemacht. Das Bild mit Account-Logo wurde böswillig gefälscht, um China zu diffamieren. Man sollte Urteilskraft haben, Fake News zu erkennen u. nicht zu verbreiten.
 
-DeepL translation: The embassy in France has never posted the tweet and has already clarified this on Twitter and the homepage. The picture with account logo was maliciously faked to defame China. One should have the power of judgement to recognize and not to spread fake news.
+> DeepL translation: The embassy in France has never posted the tweet and has already clarified this on Twitter and the homepage. The picture with account logo was maliciously faked to defame China. One should have the power of judgement to recognize and not to spread fake news.
 
 However, the tweet was real and its URL was https://twitter.com/AmbassadeChine/status/1264630583034077184.
 
 Using the Twitter API I have found all of the replies the tweet received in its short life. The text, date and URL of these tweets follows and full data can be found in https://github.com/jnzst/AmbassadeChine-deleted-tweet/blob/master/tweets.json.
 
 As tweets can only be responded to while they exist, we can tell that it was created before 8:54:07 (which matches the 8:53 time in the screenshots) and deleted after 9:00:57. Given the rate at which the tweet was receiving replies, it is most likely the tweet was deleted at 9:01, 14 minutes after it was posted.
+
+Here are the replies. t.co URLs are for images.
 
 ```
 https://twitter.com/GreenWorld_GW1/status/1264632494835589120
